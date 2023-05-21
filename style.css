@@ -43,6 +43,7 @@ h2{
     width: 100px;
 }
 
+/* Estilos para el mensaje de error */
 .errorMessage{
     color: red;
     font-weight: 600;
@@ -68,6 +69,7 @@ h2{
     transition: background-color 200ms ease-in-out;
 }
 
+/* Estilos para las imágenes de la galería */
 .gallery img{
     width: 400px;
     height: 250px;
